@@ -1,4 +1,4 @@
-# M4205C - Téléphonie sur IP
+Téléphonie sur IP
 
 ## 1 : Prise en main du logiciel avec lecture de l'article GLMF
 - paramètres de sip.conf
